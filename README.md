@@ -22,8 +22,13 @@ Here are some ideas to get you started:
 
 ## Personal Information
 
-```shell
+
 🔭 I’m currently studying at The University of Hong Kong
 📫 contact with this email address: xjc1022@connect.hku.hk
-🌱 Major \in Actuarial science \& Minor \in CS
-```
+🌱 Major:Actuarial science       Minor:CS
+⚡ Skills:C++, Python, MySql, R, Markdown, Python GUI
+
+
+## Projects
+### 1.Causal inference on treatment effect with deep learning methods
+
