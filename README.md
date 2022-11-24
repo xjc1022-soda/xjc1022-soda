@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 ## Personal Information
 
-
+**Note:**
 🔭 I’m currently studying at The University of Hong Kong
 📫 contact with this email address: xjc1022@connect.hku.hk
 🌱 Major:Actuarial science       Minor:CS
