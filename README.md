@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 # Welcome to my Github page!
 ```
-My name is Jiacheng, we can also call me Gary
+My name is Jiacheng, you can also call me Gary!😄
 ```
 *******
 
@@ -34,4 +34,6 @@ My name is Jiacheng, we can also call me Gary
 
 ## Projects
 ### 1.Causal inference on treatment effect with deep learning methods
+
+### 2.Image classification with pretrain models and segamentation(COMP 3340 Deep Learning)
 
