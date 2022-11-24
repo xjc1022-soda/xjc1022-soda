@@ -17,10 +17,10 @@ Here are some ideas to get you started:
 
 <img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo_new.png" width="100%">
 
+![Header](https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo_new.png)
 
 
-
-## 😄Personal Information
+## 😄 Personal Information
 
 ```
 🔭 I’m currently studying at The University of Hong Kong
@@ -38,7 +38,7 @@ Here are some ideas to get you started:
 ![](https://img.shields.io/badge/Packages-Pytorch-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Packages-Numpy-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-## Projects
+## &#x270d; Projects
 ### 1.Causal inference on treatment effect with deep learning methods
 ```
 Summer Research under Dr. Lequan Yu's team
