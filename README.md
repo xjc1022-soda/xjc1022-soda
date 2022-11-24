@@ -73,7 +73,7 @@ COMP 2113 Programming Skills
 
 
 
-
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v7/icons/[#EC1C24].svg" />
 
 
 
