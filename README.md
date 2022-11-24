@@ -31,6 +31,12 @@ My name is Jiacheng, you can also call me Gary!😄
 🌱 Major:Actuarial science       Minor:CS
 ⚡ Skills:C++, Python, MySql, R, Python GUI
 ```
+## Skills
+![C++](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![Python](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![R](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![MySql](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+![Python GUI](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
 ## Projects
 ### 1.Causal inference on treatment effect with deep learning methods
@@ -47,5 +53,5 @@ COMP 3340 Deep Learning Algorithms Coursework
 COMP 3278 Database design
 ```
 
-![](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
+
 
