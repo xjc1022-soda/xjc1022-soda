@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo.png" width="100%" height="10%">
+<img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo.png" width="100%">
