@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-[![Header](https://raw.githubusercontent.com/MartinHeinz///readme_header.png "Header")](https://some-url.dev/)
+[![Header]((https://raw.githubusercontent.com/MartinHeinz///readme_header.png "Header") "Header")](https://some-url.dev/)
