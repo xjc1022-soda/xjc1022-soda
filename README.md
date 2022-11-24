@@ -53,5 +53,8 @@ COMP 3340 Deep Learning Algorithms Coursework
 COMP 3278 Database design
 ```
 
-
+### 4.Mineweeper game
+```
+COMP 2113 Programming Skills
+```
 
