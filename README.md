@@ -34,9 +34,18 @@ My name is Jiacheng, you can also call me Gary!😄
 
 ## Projects
 ### 1.Causal inference on treatment effect with deep learning methods
-
+```
+Summer Research under Dr. Lequan Yu's team
+```
 ### 2.Image classification with pretrain models and segamentation
 ```
-COMP 3340 Deep Learning Algorithms
+COMP 3340 Deep Learning Algorithms Coursework
 ```
+
+### 3.Face Recognition for Attentance System 
+```
+COMP 3278 Database design
+```
+
+![](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 
