@@ -25,5 +25,5 @@ Here are some ideas to get you started:
 ```shell
 🔭 I’m currently studying at The University of Hong Kong
 📫 contact with this email address: xjc1022@connect.hku.hk
-🌱 Major in Actuarial science & Minor in CS
+🌱 Major \in Actuarial science \& Minor \in CS
 ```
