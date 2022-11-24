@@ -19,6 +19,8 @@ Here are some ideas to get you started:
 
 # Welcome to my Github page!
 
+## Personal Information
+
 ```shell
 🔭 I’m currently studying at The University of Hong Kong
 📫 contact with this email address: xjc1022@connect.hku.hk
