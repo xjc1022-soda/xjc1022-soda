@@ -47,7 +47,7 @@ Summer Research under Dr. Lequan Yu's team
 ![](https://img.shields.io/badge/Packages-Pytorch-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
 ![](https://img.shields.io/badge/Packages-Numpy-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 
-#EC1C24[research report](https://github.com/xjc1022-soda/xjc1022-soda/blob/main/summer_research_proposal.pdf)
+#EC1C24; [research report](https://github.com/xjc1022-soda/xjc1022-soda/blob/main/summer_research_proposal.pdf)
 ### 2.Image classification with pretrain models and segamentation
 ```
 COMP 3340 Deep Learning Algorithms Coursework
