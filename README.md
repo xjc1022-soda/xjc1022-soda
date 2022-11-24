@@ -35,5 +35,8 @@ My name is Jiacheng, you can also call me Gary!😄
 ## Projects
 ### 1.Causal inference on treatment effect with deep learning methods
 
-### 2.Image classification with pretrain models and segamentation(COMP 3340 Deep Learning)
+### 2.Image classification with pretrain models and segamentation
+```
+COMP 3340 Deep Learning Algorithms
+```
 
