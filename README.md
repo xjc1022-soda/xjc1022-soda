@@ -18,7 +18,9 @@ Here are some ideas to get you started:
 <img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo_new.png" width="100%">
 
 # Welcome to my Github page!
+```
 My name is Jiacheng, we can also call me Gary
+```
 *******
 
 ## Personal Information
