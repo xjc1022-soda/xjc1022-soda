@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 <img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo_new.png" width="100%">
 
-![Header](https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo_new.png)
 
 
 ## 😄 Personal Information
@@ -25,7 +24,7 @@ Here are some ideas to get you started:
 ```
 🔭 I’m currently studying at The University of Hong Kong
 📫 contact with this email address: xjc1022@connect.hku.hk
-🌱 Major:Actuarial science       Minor:CS
+🌱 Major:Actuarial Science       Minor:CS
 ```
 
 ## 🔧 Technologies & Tools
@@ -43,25 +42,33 @@ Here are some ideas to get you started:
 ```
 Summer Research under Dr. Lequan Yu's team
 ```
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-Pytorch-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-Numpy-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 [research report](https://github.com/xjc1022-soda/xjc1022-soda/blob/main/summer_research_proposal.pdf)
 ### 2.Image classification with pretrain models and segamentation
 ```
 COMP 3340 Deep Learning Algorithms Coursework
 ```
-
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-Pytorch-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Packages-Numpy-informational?style=flat&logo=kubernetes&logoColor=white&color=2bbc8a)
 ### 3.Face Recognition for Attentance System 
 ```
 COMP 3278 Database design
 ```
-
+![](https://img.shields.io/badge/Code-MySql-informational?style=flat&logo=go&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Tools-GUI-informational?style=flat&logo=cmake&logoColor=white&color=2bbc8a)
 ### 4.Mineweeper game
 ```
 COMP 2113 Programming Skills
 ```
+![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
+![](https://img.shields.io/badge/Code-C++-informational?style=flat&logo=javascript&logoColor=white&color=2bbc8a)
 
 
-
-[![Header](https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/readme_header.png "Header")](https://martinheinz.dev/)
 
 
 
