@@ -43,6 +43,7 @@ My name is Jiacheng, you can also call me Gary!😄
 ```
 Summer Research under Dr. Lequan Yu's team
 ```
+[research report](https://github.com/xjc1022-soda/xjc1022-soda/blob/main/summer_research_proposal.pdf)
 ### 2.Image classification with pretrain models and segamentation
 ```
 COMP 3340 Deep Learning Algorithms Coursework
