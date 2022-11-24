@@ -32,7 +32,7 @@ My name is Jiacheng, you can also call me Gary!😄
 ⚡ Skills:C++, Python, MySql, R, Python GUI
 ```
 ## Skills
-![C++](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a, "C++")
+![C++](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a, "C++")[C++]
 ![Python](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![R](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
 ![MySql](https://img.shields.io/badge/--informational?style=flat&logo=&logoColor=white&color=2bbc8a)
