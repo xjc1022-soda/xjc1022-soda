@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# ![Header](logo.png "Header")
-<img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo.png" width="100%" height="30%">
+
+<img decoding="async" src="https://github.com/xjc1022-soda/xjc1022-soda/blob/main/logo.png" width="100%" height="10%">
