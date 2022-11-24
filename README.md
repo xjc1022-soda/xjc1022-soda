@@ -14,4 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-# [![Header](logo.png "Header")]
+# ![Header](logo.png "Header")
+<img decoding="async" src="" width="50%">
